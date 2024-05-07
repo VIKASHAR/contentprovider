@@ -158,10 +158,8 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 
-![image](https://github.com/VIKASHAR/contentprovider/assets/119405655/03e9e58a-e3f3-4592-ab61-55acd923a3de)
-
-![image](https://github.com/VIKASHAR/contentprovider/assets/119405655/bec3e723-4eb1-4683-bf22-8b417d3ab0e6)
-
+![Screenshot 2024-05-07 183200](https://github.com/VIKASHAR/contentprovider/assets/119405655/bdc8a223-2b07-47c0-926b-ebf2a2ec3c7b)
+![Screenshot 2024-05-07 183049](https://github.com/VIKASHAR/contentprovider/assets/119405655/ef717b63-fa7e-4a11-afac-a53710a33034)
 
 
 
